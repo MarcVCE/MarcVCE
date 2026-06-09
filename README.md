@@ -8,7 +8,7 @@
 </div>
 
 ## 🚀 About Me
-- 🔭 I'm currently working on **university projects & web scraping with error/file detection**
+- 🔭 I'm currently working on **bootcamp projects & personal projects (web scraping with error/file detection)**
 - 🌱 I'm currently learning **Ollama, Azure AI deployment tools & Lua**
 - 👯 I'm looking to collaborate on **web scraping & chatbot projects**
 - 💬 Ask me about **Python, HTML & Lua**
