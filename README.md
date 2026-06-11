@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Marc!
+# 👋 Hi there, I'm MarcVCE!
 
 <div align="center">
   
@@ -11,7 +11,7 @@
 - 🔭 I'm currently working on **bootcamp projects & personal projects (web scraping with error/file detection)**
 - 🌱 I'm currently learning **Ollama, Azure AI deployment tools & Lua**
 - 👯 I'm looking to collaborate on **web scraping & chatbot projects**
-- 💬 Ask me about **Python, HTML & Lua**
+- 💬 Ask me about **Python, Web Scraping and AI**
 - ⚡ Fun fact: **I love building tools that save time!**
 
 ## 🛠️ Languages and Tools
@@ -50,13 +50,22 @@
   
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcVCE&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  
+  <!-- Most Used Languages -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcVCE&layout=compact&theme=radical&hide_border=true)
+
 ## 💻 Popular Repositories
 
 <div align="center">
 
-[![Corrupted Files Detector](https://github-readme-stats.vercel.app/api/pin/?username=MarcVCE&repo=weebcentral_downloader&theme=radical&hide_border=true)](https://github.com/MarcVCE/Corrupted-Files-Detector)
-[![Format Conversor](https://github-readme-stats.vercel.app/api/pin/?username=MarcVCE&repo=bato_downloader&theme=radical&hide_border=true)](https://github.com/MarcVCE/Format-Conversor)
-[![AntiFaceRecognition](https://github-readme-stats.vercel.app/api/pin/?username=MarcVCE&repo=bato_downloader&theme=radical&hide_border=true)](https://github.com/MarcVCE/AntiFaceRecognition)
+[![Corrupted Files Detector](https://github-readme-stats.vercel.app/api/pin/?username=MarcVCE&repo=Corrupted-Files-Detector&theme=radical&hide_border=true)](https://github.com/MarcVCE/Corrupted-Files-Detector)
+[![Format Conversor](https://github-readme-stats.vercel.app/api/pin/?username=MarcVCE&repo=Format-Conversor&theme=radical&hide_border=true)](https://github.com/MarcVCE/Format-Conversor)
 
 </div>
 
