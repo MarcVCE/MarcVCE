@@ -59,16 +59,7 @@
   
   <!-- Most Used Languages -->
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcVCE&layout=compact&theme=radical&hide_border=true)
-
-## 💻 Popular Repositories
-
-<div align="center">
-
-[![Corrupted Files Detector](https://github-readme-stats.vercel.app/api/pin/?username=MarcVCE&repo=Corrupted-Files-Detector&theme=radical&hide_border=true)](https://github.com/MarcVCE/Corrupted-Files-Detector)
-[![Format Conversor](https://github-readme-stats.vercel.app/api/pin/?username=MarcVCE&repo=Format-Conversor&theme=radical&hide_border=true)](https://github.com/MarcVCE/Format-Conversor)
-
-</div>
-
+  
 
 ## 📫 Connect with Me
 
